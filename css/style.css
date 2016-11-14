@@ -3,14 +3,73 @@
 
 .header {
   background-color: #39474E;
+  padding: 25px;
+}
+
+.header img {
+  height: 70px;
+}
+
+.header a {
+  color: white;
+}
+
+.header-left a {
+  padding-right: 10px;
+}
+
+.right-nav a {
+  color: grey;
+  position: relative;
+  top: 20px;
+  left: 200px;
+  padding: 10px;
+}
+
+#get-started-button a {
+  border: 1px solid #4FA8A3;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #4FA8A3;
+  position: relative;
+  left: 420px;
 }
 
 /*HERO*/
+
+.hero {
+  background-image: url("https://www.theironyard.com/content/dam/theironyard/home/amy-home-web2.jpg");
+  background-size: cover;
+  padding: 250px;
+}
+
+.hero h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.hero p {
+  color: white;
+  font-size: 25px;
+}
+
+.play-button {
+  border: 1px solid #4FA8A3;
+  background-color: #4FA8A3;
+  border-radius: 5px;
+}
+
+.play-button a {
+  color: white;
+}
+
+
 
 /*HERO-BOTTOM*/
 
 .hero-bottom {
   background-color: #EEEEEE;
+  text-align: center;
 }
 
 .hero-bottom img {
@@ -18,6 +77,11 @@
 }
 
 /*SECTION 1*/
+
+.section-1 h2 {
+  color: #727D84;
+}
+
 
 /*SECTION 2*/
 
